@@ -3,11 +3,12 @@
 home  videos, video games, and streaming content online – including cast, production crew and personal biographies, plot  summaries, trivia, ratings,
 and fan and critical reviews.
 
---> Tools used : Requests
-Beautiful Soup
-Pandas
-Matplotlib
-Seaborn
+--> Tools used : Requests,
+Beautiful Soup,
+Pandas,
+numpy,
+Matplotlib,
+Seaborn.
 
 
 -->Conclusions:
